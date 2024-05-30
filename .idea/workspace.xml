@@ -7,14 +7,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mots_pendu.txt" afterDir="false" />
+    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="Fonctions lectures d'entrée et de fichier + écriture">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_reading.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -24,12 +31,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Monreud"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Monreud&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -45,13 +52,14 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Jeu_du_pendu_Clélia_Durandet.executor": "Run",
+    "Python.input_reading.executor": "Run",
     "Python.jeu.executor": "Run",
     "Python.jeu_pendu.executor": "Run",
     "Python.pendu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "init",
+    "git-widget-placeholder": "file__reading",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/augus/PycharmProjects/Module4-Projet A",
+    "last_opened_file_path": "C:/Users/augus/PycharmProjects/jeu_du_pendu/jeu_du_pendu.py",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -80,10 +88,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717104027320</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fonctions lectures d'entrée et de fichier + écriture">
+      <option name="closed" value="true" />
+      <created>1717107480103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717107480103</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fonctions lectures d'entrée et de fichier + écriture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fonctions lectures d'entrée et de fichier + écriture" />
   </component>
 </project>
