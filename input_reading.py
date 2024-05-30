@@ -16,10 +16,10 @@ def lecture_entree():
     return input('Quel message souhaitez-vous décrypter ?')
 
 
-def ecriture(file_name):
+def ecriture(file_name,contenu):
     # On crée un fichier txt et on écrit dedans
-    with open("message_decrypte.txt", "w") as fio:
-        fio.write(file_name)
+    with open(file_name, "w") as fio:
+        fio.write(contenu)
 
 
 if __name__ == '__main__':
