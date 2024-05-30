@@ -7,7 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="Fonctions lectures d'entrée et de fichier + écriture">
+    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="Comments resolve v2">
+      <change afterPath="$PROJECT_DIR$/decrypt_message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_reading.py" afterDir="false" />
     </list>
@@ -52,12 +53,13 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Jeu_du_pendu_Clélia_Durandet.executor": "Run",
+    "Python.decrypt_message.executor": "Run",
     "Python.input_reading.executor": "Run",
     "Python.jeu.executor": "Run",
     "Python.jeu_pendu.executor": "Run",
     "Python.pendu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "file__reading",
+    "git-widget-placeholder": "decrypt",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/augus/PycharmProjects/jeu_du_pendu/jeu_du_pendu.py",
     "run.code.analysis.last.selected.profile": "aDefault",
@@ -96,12 +98,30 @@
       <option name="project" value="LOCAL" />
       <updated>1717107480103</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Comments resolve">
+      <option name="closed" value="true" />
+      <created>1717107977928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717107977928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Comments resolve v2">
+      <option name="closed" value="true" />
+      <created>1717108180511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717108180511</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Fonctions lectures d'entrée et de fichier + écriture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fonctions lectures d'entrée et de fichier + écriture" />
+    <MESSAGE value="Comments resolve" />
+    <MESSAGE value="Comments resolve v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comments resolve v2" />
   </component>
 </project>
