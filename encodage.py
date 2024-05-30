@@ -4,7 +4,7 @@ Encodage César
 """
 import string
 
-
+# test git
 def encodage(mot_a_encoder, cle_decriptage):
     mot_crypte = ""
     alphabet = string.ascii_lowercase  # On recupere l'alphabet
