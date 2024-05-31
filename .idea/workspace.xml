@@ -7,9 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="Comments resolve v2">
-      <change afterPath="$PROJECT_DIR$/decrypt_message.py" afterDir="false" />
+    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="Fonction decryptage avec clé">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decrypt_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/decrypt_message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_reading.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
     "Python.jeu_pendu.executor": "Run",
     "Python.pendu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "decrypt",
+    "git-widget-placeholder": "decrypte__brute__force",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/augus/PycharmProjects/jeu_du_pendu/jeu_du_pendu.py",
     "run.code.analysis.last.selected.profile": "aDefault",
@@ -114,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717108180511</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fonction decryptage avec clé">
+      <option name="closed" value="true" />
+      <created>1717113228064</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717113228064</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +130,7 @@
     <MESSAGE value="Fonctions lectures d'entrée et de fichier + écriture" />
     <MESSAGE value="Comments resolve" />
     <MESSAGE value="Comments resolve v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comments resolve v2" />
+    <MESSAGE value="Fonction decryptage avec clé" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fonction decryptage avec clé" />
   </component>
 </project>
