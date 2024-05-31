@@ -8,6 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="Fonction decryptage avec clé">
+      <change beforePath="$PROJECT_DIR$/.idea/Module4 - Projet A.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Module4 - Projet A.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decrypt_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/decrypt_message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_reading.py" afterDir="false" />
@@ -38,6 +40,12 @@
     &quot;assignee&quot;: &quot;Monreud&quot;
   }
 }</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Monreud/MiniProjetA-Caesar.git&quot;,
+    &quot;accountId&quot;: &quot;264775a0-6ecf-45bc-aa32-7c8fedced8e3&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -61,7 +69,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "decrypte__brute__force",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/augus/PycharmProjects/jeu_du_pendu/jeu_du_pendu.py",
+    "last_opened_file_path": "C:/Users/augus/PycharmProjects/MiniProjetA-Caesar",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }

@@ -3,6 +3,7 @@
 """
 import string
 import input_reading as ir
+from PyDictionary import PyDictionary
 
 
 def decrypter(message, key=None):
