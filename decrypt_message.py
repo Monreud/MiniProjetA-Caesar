@@ -3,10 +3,10 @@
 """
 import string
 import input_reading as ir
-from PyDictionary import PyDictionary
 
 
-def decrypter(message, key=None):
+def decrypter_mot(message: str, key=None):
+
     alphabet = string.ascii_lowercase
     uncrypted = 0
 
@@ -39,3 +39,12 @@ def decrypter(message, key=None):
 
     return mot_decrypter, new_key
 
+
+def decrypter_message(message: list, key=None):
+    message_decrypte = [''] * len(message)
+
+    for i in range(len(message)):
+        mot, key = decrypter_mot(message[i], key)
+        message_decrypte[i] = mot
+
+    return message_decrypte, key
