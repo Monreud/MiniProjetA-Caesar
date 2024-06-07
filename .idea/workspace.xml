@@ -7,10 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="Fonction decryptage avec clé">
+    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="test pydictionary">
+      <change afterPath="$PROJECT_DIR$/message_encrypte.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decrypt_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/decrypt_message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_reading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mots_pendu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mots_pendu.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="decrypte_brute_force" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +38,12 @@
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
     &quot;assignee&quot;: &quot;Monreud&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Monreud/MiniProjetA-Caesar.git&quot;,
+    &quot;accountId&quot;: &quot;264775a0-6ecf-45bc-aa32-7c8fedced8e3&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -59,9 +67,9 @@
     "Python.jeu_pendu.executor": "Run",
     "Python.pendu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "decrypte__brute__force",
+    "git-widget-placeholder": "decrypte__brute__force__dictionnaire",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/augus/PycharmProjects/jeu_du_pendu/jeu_du_pendu.py",
+    "last_opened_file_path": "C:/Users/augus/PycharmProjects/MiniProjetA-Caesar",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -122,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717113228064</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test pydictionary">
+      <option name="closed" value="true" />
+      <created>1717128132620</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717128132620</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,6 +147,7 @@
     <MESSAGE value="Comments resolve" />
     <MESSAGE value="Comments resolve v2" />
     <MESSAGE value="Fonction decryptage avec clé" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fonction decryptage avec clé" />
+    <MESSAGE value="test pydictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="test pydictionary" />
   </component>
 </project>
