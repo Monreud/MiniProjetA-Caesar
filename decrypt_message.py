@@ -1,5 +1,5 @@
 """
-
+Auteur : Augustin Montredon
 """
 import string
 import input_reading as ir

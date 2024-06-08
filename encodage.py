@@ -1,4 +1,5 @@
 """
+Auteur : Baptiste Corn
 Encodage César
 
 """

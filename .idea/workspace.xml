@@ -7,11 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="VF sans commentaires">
-      <change afterPath="$PROJECT_DIR$/encodage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_reading.py" afterDir="false" />
+    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="VF">
+      <change afterPath="$PROJECT_DIR$/mots_encode.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mots_pendu.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717805713072</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="VF">
+      <option name="closed" value="true" />
+      <created>1717809269297</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717809269297</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +172,7 @@
     <MESSAGE value="test pydictionary" />
     <MESSAGE value="decryptage phrase" />
     <MESSAGE value="VF sans commentaires" />
-    <option name="LAST_COMMIT_MESSAGE" value="VF sans commentaires" />
+    <MESSAGE value="VF" />
+    <option name="LAST_COMMIT_MESSAGE" value="VF" />
   </component>
 </project>
