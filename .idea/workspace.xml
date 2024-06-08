@@ -7,12 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="test pydictionary">
-      <change afterPath="$PROJECT_DIR$/message_encrypte.txt" afterDir="false" />
+    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="decryptage phrase">
+      <change afterPath="$PROJECT_DIR$/bdd_mots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/decrypt_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/decrypt_message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_reading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mots_pendu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mots_pendu.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mots_pendu.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717128132620</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="decryptage phrase">
+      <option name="closed" value="true" />
+      <created>1717800041702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717800041702</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +156,7 @@
     <MESSAGE value="Comments resolve v2" />
     <MESSAGE value="Fonction decryptage avec clé" />
     <MESSAGE value="test pydictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="test pydictionary" />
+    <MESSAGE value="decryptage phrase" />
+    <option name="LAST_COMMIT_MESSAGE" value="decryptage phrase" />
   </component>
 </project>

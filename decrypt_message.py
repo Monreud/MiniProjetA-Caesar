@@ -33,7 +33,7 @@ def decrypter_mot(message: str, key=None):
         new_key = key
         for i in range(len(message)):
             current_letter = message[i]
-            next_letter = alphabet[(alphabet.index(current_letter) + 26 - key)%26]
+            next_letter = alphabet[(alphabet.index(current_letter) + 26 - key) % 26]
 
             mot_decrypter += next_letter
 
