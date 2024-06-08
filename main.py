@@ -1,4 +1,5 @@
 """
+Auteur : Baptiste Corn
 Encodage et décodage César
 """
 import input_reading as ir
