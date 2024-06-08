@@ -41,7 +41,6 @@ def encodage_fichier ():
 def encodage_phrase(phrase_a_encoder, cle_decriptage):
     phrase_encode =""
     liste_cript = phrase_a_encoder.split(" ")
-    print(liste_cript)
 
     for mot in liste_cript:  # On parcourt chaque mot de la liste
         phrase_encode += encodage(mot, cle_decriptage)  # On concatene chaque mot crypte dans la chaine de caractere
@@ -49,7 +48,3 @@ def encodage_phrase(phrase_a_encoder, cle_decriptage):
 
     return phrase_encode
 
-
-encodage("test", -2)
-encodage_fichier()
-encodage_phrase("Je suis message", 0)
