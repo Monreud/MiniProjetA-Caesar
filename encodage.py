@@ -49,7 +49,3 @@ def encodage_phrase(phrase_a_encoder, cle_decriptage):
 
     return phrase_encode
 
-
-encodage("test", -2)
-encodage_fichier()
-encodage_phrase("Je suis message", 0)
