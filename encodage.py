@@ -49,3 +49,4 @@ def encodage_phrase(phrase_a_encoder, cle_decriptage):
         phrase_encode += " " # Espace
 
     return phrase_encode
+
