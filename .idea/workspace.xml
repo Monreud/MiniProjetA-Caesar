@@ -7,12 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="test pydictionary">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encodage.py" beforeDir="false" afterPath="$PROJECT_DIR$/encodage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_reading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mots_pendu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mots_pendu.txt" afterDir="false" />
+    <list default="true" id="6fdc90b9-287c-4bc0-b94f-7d509487b5cc" name="Changes" comment="Création fichier main et ajustement des fonctions (ajout et suppression de menus avec entrées utilisateur)">
+      <change afterPath="$PROJECT_DIR$/mots_encode.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717128132620</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Création fichier main et ajustement des fonctions (ajout et suppression de menus avec entrées utilisateur)">
+      <option name="closed" value="true" />
+      <created>1717807898852</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717807898852</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +236,7 @@
     <MESSAGE value="Comments resolve v2" />
     <MESSAGE value="Fonction decryptage avec clé" />
     <MESSAGE value="test pydictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="test pydictionary" />
+    <MESSAGE value="Création fichier main et ajustement des fonctions (ajout et suppression de menus avec entrées utilisateur)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Création fichier main et ajustement des fonctions (ajout et suppression de menus avec entrées utilisateur)" />
   </component>
 </project>
